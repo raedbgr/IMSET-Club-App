@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635485236653",
+    "project_id": "imset-club-app",
+    "storage_bucket": "imset-club-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635485236653:android:87b076497b1415d9a50524",
+        "android_client_info": {
+          "package_name": "com.example.imset_club_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfLOJ8cA_ElkXTIFhAfK9ui-OHQFiFt1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
